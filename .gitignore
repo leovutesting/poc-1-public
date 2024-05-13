@@ -1,0 +1,18 @@
+# Deployment
+*.env
+.azure
+
+# DB Storage
+.qdrant/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/settings.json
+.vscode/launch.json
+.idea
+
+# Java compiled files
+*.class
+**/target/*
