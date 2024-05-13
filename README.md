@@ -1,6 +1,6 @@
 # Native Quarkus telemetry on Azure
 
-This project contains 2 services implemented with Quarkus using que Quarkiverse OpenTelemetry Exporter for Azure, for demonstration purposes. `quarkus-telemetry-vegetable`and `quarkus-telemetry-superhero`.
+This project contains 2 services implemented with Quarkus using que Quarkiverse OpenTelemetry Exporter for Azure, for demonstration purposes. `vegetable`and `superhero`.
 
 The `vegetable` is a CRUD application for Vegetables and each time you create a veggie in there, a REST request is dispatched to `superhero` where a veggie is transformed in a vegetable superhero :) .
 
